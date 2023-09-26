@@ -26,4 +26,5 @@ The algorithm is based on the right hand rule.
 
 Note: 'other functions' are robot physical capabilities dependant. it can be implemented to suit the design specs of the robot.
 
+![Line Maze](https://github.com/yasirueranda/Line-Maze-Solving-Algorithm/assets/129848234/36d1b533-bf61-47ed-8fd9-67bc14b0fb7e)
 
